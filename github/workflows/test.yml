@@ -25,7 +25,7 @@ jobs:
       run: npm install
 
     - name: Run tests
-      run: npm test -- --ci --reporters=default --reporters=jest-stare 
+      run: npm test 
 
     - name: Upload Jest Test Results to GitHub Actions
       uses: actions/upload-artifact@v2
