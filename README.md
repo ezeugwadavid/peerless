@@ -1,8 +1,8 @@
-# **Peerless React App**
+# **Peerless**
 
 ## **Description**
 
-Peerless is a modern, responsive React application designed for seamless user experience. The app includes a **dashboard** with various interactive components, leveraging state-of-the-art tools like React, Styled Components, and Jest for testing. It allows users to view their content in an organized and user-friendly interface, along with real-time updates and responsiveness.
+Peerless is a modern, responsive React application designed for seamless user experience. The app includes a **dashboard** with various interactive components, leveraging state of the art tools like React, Styled Components, and Jest for testing. It allows users to view their content in an organized and user-friendly interface, along with real-time updates and responsiveness.
 
 Live demo: [Peerless Dashboard](https://peerless-theta.vercel.app/dashboard)
 
@@ -11,7 +11,7 @@ Live demo: [Peerless Dashboard](https://peerless-theta.vercel.app/dashboard)
 - **Interactive Dashboard**: Clean, organized UI with multiple reusable components.
 - **Responsive Design**: Mobile-first approach for a flawless experience across devices.
 - **Real-time Updates**: Seamless user interactions with state management in React.
-- **Comprehensive Tests**: Jest-based tests for all major components.
+- **Comprehensive Tests**: Jest-based tests for major components.
 - **Theming**: Configured for easy future theming adjustments using Styled Components.
 - **Deployment**: Hosted on Vercel for easy access and continuous deployment.
 
@@ -28,7 +28,25 @@ Live demo: [Peerless Dashboard](https://peerless-theta.vercel.app/dashboard)
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/peerless-react-app.git
-cd peerless-react-app
+git clone https://github.com/ezeugwadavid/peerless.git
+cd peerless
+```
+
+2. **Install the project dependencies:**
+
+```bash
+npm install
+```
+
+3. **Run the App Locally:**
+
+```bash
+npm start
+```
+
+4. **Run Tests:**
+
+```bash
+npm test
 ```
 
