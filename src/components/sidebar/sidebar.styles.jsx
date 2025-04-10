@@ -49,6 +49,10 @@ export const SidebarContainer = styled.div`
       padding: 20px 40px;
     }
 
+    .bottomsection {
+      padding: 20px 40px;
+    }
+
     .logosection {
       button {
         border: 1px solid ${colors.whiteColor};
